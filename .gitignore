@@ -1,0 +1,15 @@
+# Visual Studio 构建产物与本地配置
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# 编译输出
+*.exe
+*.pdb
+*.ilk
+*.obj
+*.o
